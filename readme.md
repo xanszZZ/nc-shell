@@ -1,9 +1,9 @@
-## nc
+## nc-shell
 
 ## 安装
 
 ```
-git clone https://github.com/xanszZZ/nc
+git clone https://github.com/xanszZZ/nc-shell
 cd nc
 ```
 
